@@ -29,6 +29,17 @@ into a standardized text format.
 
 ---
 
+### Academic Coursework & Projects
+In addition to my personal repositories, I have completed coursework in Computer Science, building a strong foundation in algorithmic problem-solving and software engineering.
+
+* **C++ Pathfinding Engine (Data Structures & Algorithms):**
+    * Implemented a navigation backend using **C++17** and **STL**.
+    * Focus: Memory management, pointer logic, and time complexity analysis.
+
+* **Python & Machine Learning:**
+    * Progressed from foundational programming to advanced coursework in Machine Learning and Deep Learning.
+    * Gained practical experience in designing and training neural networks, data processing pipelines, and applying modern ML frameworks.
+
 ## About Me
 - BSc Computer Science student (3rd year) at Tampere University
 - Minor in Machine Learning
