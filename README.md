@@ -42,5 +42,5 @@ In addition to my personal repositories, I have completed coursework in Computer
 
 ## About Me
 - BSc Computer Science student (3rd year) at Tampere University
-- Minor in Machine Learning
+- Minor in AI / Machine Learning
 - Interested in data-driven product development and analytics
