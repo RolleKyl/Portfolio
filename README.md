@@ -39,6 +39,7 @@ In addition to my personal repositories, I have completed coursework in Computer
 * **Python & Machine Learning:**
     * Progressed from foundational programming to advanced coursework in Machine Learning and Deep Learning.
     * Gained practical experience in designing and training neural networks, data processing pipelines, and applying modern ML frameworks.
+    * Finetuning 🔗 Repository: https://github.com/RolleKyl/Fine-tuning-Large-Language-Models
 
 ## About Me
 - BSc Computer Science student (3rd year) at Tampere University
